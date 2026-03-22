@@ -1,1 +1,1 @@
-Übungen für die Vorlsung Betriebssysteme
+Übungen für die Vorlesung Betriebssysteme
